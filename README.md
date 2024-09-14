@@ -1,2 +1,2 @@
-# sortingVisualizer
-A tool that helps you understand how different sorting algorithms work
+# Sorting-Algorithm-Visualizer
+Python sorting algorithm visualizer.
